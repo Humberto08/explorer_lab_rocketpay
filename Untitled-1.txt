@@ -1,0 +1,1 @@
+npx vite (usado para  abrir o index.html(local host) no terminal)
